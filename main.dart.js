@@ -41593,7 +41593,7 @@ A.LA.prototype={
 D(a){var s,r=t.p,q=A.cH(A.a([A.ny(A.bA(B.bU,B.m,B.j,B.D,null),new A.a6I(a))],r),!1,B.UF),p=$.aW().b
 p===$&&A.b()
 s=t.D
-return A.bd(A.a([q,A.b_(A.cf(new A.a6J(),p.aG("User").bv(0,s).bW("role","driver").bW("isDeleted",!1),s),1)],r),B.m,B.j,B.q)}}
+return A.bd(A.a([q,A.b_(A.cf(new A.a6J(),p.aG("User").bv(0,s).bW("role","admin").bW("isDeleted",!1),s),1)],r),B.m,B.j,B.q)}}
 A.a6I.prototype={
 $0(){A.aR(this.a,!1).aJ(A.bN(new A.a6H()))},
 $S:0}
